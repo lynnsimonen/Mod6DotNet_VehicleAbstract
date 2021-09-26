@@ -1,0 +1,16 @@
+D:\2021_Fall_dotNet\Git_Repos\Mod6Lab_Vehicles2\obj\Debug\net5.0\Mod6Lab_Vehicles2.csprojAssemblyReference.cache
+D:\2021_Fall_dotNet\Git_Repos\Mod6Lab_Vehicles2\obj\Debug\net5.0\Mod6Lab_Vehicles2.GeneratedMSBuildEditorConfig.editorconfig
+D:\2021_Fall_dotNet\Git_Repos\Mod6Lab_Vehicles2\obj\Debug\net5.0\Mod6Lab_Vehicles2.AssemblyInfoInputs.cache
+D:\2021_Fall_dotNet\Git_Repos\Mod6Lab_Vehicles2\obj\Debug\net5.0\Mod6Lab_Vehicles2.AssemblyInfo.cs
+D:\2021_Fall_dotNet\Git_Repos\Mod6Lab_Vehicles2\obj\Debug\net5.0\Mod6Lab_Vehicles2.csproj.CoreCompileInputs.cache
+D:\2021_Fall_dotNet\Git_Repos\Mod6Lab_Vehicles2\bin\Debug\net5.0\Mod6Lab_Vehicles2.exe
+D:\2021_Fall_dotNet\Git_Repos\Mod6Lab_Vehicles2\bin\Debug\net5.0\Mod6Lab_Vehicles2.deps.json
+D:\2021_Fall_dotNet\Git_Repos\Mod6Lab_Vehicles2\bin\Debug\net5.0\Mod6Lab_Vehicles2.runtimeconfig.json
+D:\2021_Fall_dotNet\Git_Repos\Mod6Lab_Vehicles2\bin\Debug\net5.0\Mod6Lab_Vehicles2.runtimeconfig.dev.json
+D:\2021_Fall_dotNet\Git_Repos\Mod6Lab_Vehicles2\bin\Debug\net5.0\Mod6Lab_Vehicles2.dll
+D:\2021_Fall_dotNet\Git_Repos\Mod6Lab_Vehicles2\bin\Debug\net5.0\ref\Mod6Lab_Vehicles2.dll
+D:\2021_Fall_dotNet\Git_Repos\Mod6Lab_Vehicles2\bin\Debug\net5.0\Mod6Lab_Vehicles2.pdb
+D:\2021_Fall_dotNet\Git_Repos\Mod6Lab_Vehicles2\obj\Debug\net5.0\Mod6Lab_Vehicles2.dll
+D:\2021_Fall_dotNet\Git_Repos\Mod6Lab_Vehicles2\obj\Debug\net5.0\ref\Mod6Lab_Vehicles2.dll
+D:\2021_Fall_dotNet\Git_Repos\Mod6Lab_Vehicles2\obj\Debug\net5.0\Mod6Lab_Vehicles2.pdb
+D:\2021_Fall_dotNet\Git_Repos\Mod6Lab_Vehicles2\obj\Debug\net5.0\Mod6Lab_Vehicles2.genruntimeconfig.cache
